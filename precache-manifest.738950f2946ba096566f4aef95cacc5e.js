@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/desincha/static/media/video_thumbnail@2x.b1c8122c.png"
   },
   {
-    "revision": "edd5327d486653fd8813",
-    "url": "/desincha/static/js/main.ace30e73.chunk.js"
-  },
-  {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/desincha/static/media/slick.d41f55a7.ttf"
+    "revision": "984a8775ed98cccacbbe",
+    "url": "/desincha/static/js/main.d11f8ab9.chunk.js"
   },
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/desincha/static/media/slick.f97e3bbf.svg"
+  },
+  {
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/desincha/static/media/slick.d41f55a7.ttf"
   },
   {
     "revision": "543311a296c2c9ed75af070bb37e6449",
@@ -48,27 +48,31 @@ self.__precacheManifest = [
     "url": "/desincha/static/media/blog_2@2x.798d0d1c.png"
   },
   {
-    "revision": "c9ad4af525e8f2572064e95c45040d8d",
-    "url": "/desincha/static/media/intro.c9ad4af5.png"
+    "revision": "407ec55acb9bb4e1525c9a8a292347b6",
+    "url": "/desincha/static/media/logo@2x.407ec55a.png"
   },
   {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/desincha/static/media/slick.ced611da.eot"
+    "revision": "c9ad4af525e8f2572064e95c45040d8d",
+    "url": "/desincha/static/media/intro.c9ad4af5.png"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/desincha/static/media/slick.b7c9e1e4.woff"
   },
   {
-    "revision": "9763e86660e2f75d7960",
-    "url": "/desincha/static/js/2.7c5585b7.chunk.js"
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/desincha/static/media/slick.ced611da.eot"
   },
   {
-    "revision": "9763e86660e2f75d7960",
+    "revision": "6b67f89ff8e61e3e4527",
+    "url": "/desincha/static/js/2.6868a18f.chunk.js"
+  },
+  {
+    "revision": "6b67f89ff8e61e3e4527",
     "url": "/desincha/static/css/2.04ef47c4.chunk.css"
   },
   {
-    "revision": "78b19eee622109b457da2b0e5c4a2754",
+    "revision": "bb0f70aa3154605d96d8773a0dab67c2",
     "url": "/desincha/index.html"
   }
 ];
