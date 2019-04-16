@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/desincha/static/media/video_thumbnail@2x.b1c8122c.png"
   },
   {
-    "revision": "2bb74c4bb58c7709d2a9",
-    "url": "/desincha/static/js/main.b923f779.chunk.js"
-  },
-  {
-    "revision": "f97e3bbf73254b0112091d0192f17aec",
-    "url": "/desincha/static/media/slick.f97e3bbf.svg"
+    "revision": "a2d53b2c520ecb078e9c",
+    "url": "/desincha/static/js/main.89622aa0.chunk.js"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/desincha/static/media/slick.b7c9e1e4.woff"
+  },
+  {
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/desincha/static/media/slick.f97e3bbf.svg"
   },
   {
     "revision": "543311a296c2c9ed75af070bb37e6449",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/desincha/static/css/2.04ef47c4.chunk.css"
   },
   {
-    "revision": "1e3767fdf54abc8d058e7ffe2e54a6a5",
+    "revision": "ce269a1d1e15eb69b1b46268627e5330",
     "url": "/desincha/index.html"
   }
 ];
