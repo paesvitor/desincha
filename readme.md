@@ -1,12 +1,19 @@
-## Desincha teste
+# Desincha teste
 
-feito em react + styled components
-mobile only
+Feito em React + Styled Components
 
-1 - install
+- (Mobile Only)
 
-yarn
+## Subindo a versão de desenvolvimento
 
-2 - run
+1 - Instale as dependências
 
-yarn start
+```
+yarn ou npm install
+```
+
+2 - Inicie o projeto
+
+```
+yarn start ou npm start
+```
