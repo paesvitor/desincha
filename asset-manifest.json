@@ -1,0 +1,23 @@
+{
+  "main.js": "/desincha/static/js/main.1909f703.chunk.js",
+  "main.js.map": "/desincha/static/js/main.1909f703.chunk.js.map",
+  "runtime~main.js": "/desincha/static/js/runtime~main.0f7d93f3.js",
+  "runtime~main.js.map": "/desincha/static/js/runtime~main.0f7d93f3.js.map",
+  "static/css/2.04ef47c4.chunk.css": "/desincha/static/css/2.04ef47c4.chunk.css",
+  "static/js/2.7c5585b7.chunk.js": "/desincha/static/js/2.7c5585b7.chunk.js",
+  "static/js/2.7c5585b7.chunk.js.map": "/desincha/static/js/2.7c5585b7.chunk.js.map",
+  "index.html": "/desincha/index.html",
+  "precache-manifest.cc9565e1e93caf2e1238e318417f504b.js": "/desincha/precache-manifest.cc9565e1e93caf2e1238e318417f504b.js",
+  "service-worker.js": "/desincha/service-worker.js",
+  "static/css/2.04ef47c4.chunk.css.map": "/desincha/static/css/2.04ef47c4.chunk.css.map",
+  "static/media/blog_1@2x.png": "/desincha/static/media/blog_1@2x.9bc1c730.png",
+  "static/media/blog_2@2x.png": "/desincha/static/media/blog_2@2x.798d0d1c.png",
+  "static/media/ingredients@2x.png": "/desincha/static/media/ingredients@2x.a83c1cc5.png",
+  "static/media/ingredients_header@2x.png": "/desincha/static/media/ingredients_header@2x.9fd31e50.png",
+  "static/media/intro.png": "/desincha/static/media/intro.c9ad4af5.png",
+  "static/media/product_1.png": "/desincha/static/media/product_1.4abe966e.png",
+  "static/media/product_2@2x.png": "/desincha/static/media/product_2@2x.e4cb0d75.png",
+  "static/media/slick-theme.css": "/desincha/static/media/slick.f97e3bbf.svg",
+  "static/media/smoothie@2x.png": "/desincha/static/media/smoothie@2x.543311a2.png",
+  "static/media/video_thumbnail@2x.png": "/desincha/static/media/video_thumbnail@2x.b1c8122c.png"
+}
