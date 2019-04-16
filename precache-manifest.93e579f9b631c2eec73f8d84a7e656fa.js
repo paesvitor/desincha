@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/desincha/static/media/video_thumbnail@2x.b1c8122c.png"
   },
   {
-    "revision": "a2d53b2c520ecb078e9c",
-    "url": "/desincha/static/js/main.89622aa0.chunk.js"
+    "revision": "edd5327d486653fd8813",
+    "url": "/desincha/static/js/main.ace30e73.chunk.js"
   },
   {
-    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
-    "url": "/desincha/static/media/slick.b7c9e1e4.woff"
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/desincha/static/media/slick.d41f55a7.ttf"
   },
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/desincha/static/media/slick.ced611da.eot"
   },
   {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/desincha/static/media/slick.d41f55a7.ttf"
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/desincha/static/media/slick.b7c9e1e4.woff"
   },
   {
     "revision": "9763e86660e2f75d7960",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/desincha/static/css/2.04ef47c4.chunk.css"
   },
   {
-    "revision": "ce269a1d1e15eb69b1b46268627e5330",
+    "revision": "78b19eee622109b457da2b0e5c4a2754",
     "url": "/desincha/index.html"
   }
 ];
