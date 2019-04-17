@@ -4,20 +4,16 @@ self.__precacheManifest = [
     "url": "/desincha/static/media/ingredients_header@2x.9fd31e50.png"
   },
   {
-    "revision": "6bd4a31bf62ca5c820d8",
-    "url": "/desincha/static/js/main.4313ca7f.chunk.js"
+    "revision": "34c523baeba160702654",
+    "url": "/desincha/static/js/main.35fd02e2.chunk.js"
   },
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/desincha/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/desincha/static/media/slick.d41f55a7.ttf"
-  },
-  {
-    "revision": "407ec55acb9bb4e1525c9a8a292347b6",
-    "url": "/desincha/static/media/logo@2x.407ec55a.png"
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/desincha/static/media/slick.b7c9e1e4.woff"
   },
   {
     "revision": "543311a296c2c9ed75af070bb37e6449",
@@ -30,6 +26,10 @@ self.__precacheManifest = [
   {
     "revision": "cd1be3bc5f4e53c520d3d5984fd53600",
     "url": "/desincha/static/media/noite_stories@2x.cd1be3bc.png"
+  },
+  {
+    "revision": "5768712d09fb32be5a3fd1e4ffddc66a",
+    "url": "/desincha/static/media/logo.5768712d.svg"
   },
   {
     "revision": "4abe966ed0102b43ff2bcc15bcf995a8",
@@ -60,23 +60,27 @@ self.__precacheManifest = [
     "url": "/desincha/static/media/blog_2@2x.798d0d1c.png"
   },
   {
+    "revision": "407ec55acb9bb4e1525c9a8a292347b6",
+    "url": "/desincha/static/media/logo@2x.407ec55a.png"
+  },
+  {
     "revision": "ced611daf7709cc778da928fec876475",
     "url": "/desincha/static/media/slick.ced611da.eot"
   },
   {
-    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
-    "url": "/desincha/static/media/slick.b7c9e1e4.woff"
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/desincha/static/media/slick.d41f55a7.ttf"
   },
   {
-    "revision": "47a4fd714b814385607d",
-    "url": "/desincha/static/js/2.4b3c5ef1.chunk.js"
+    "revision": "1baf6e481d0a4c1e3a70",
+    "url": "/desincha/static/js/2.8651b661.chunk.js"
   },
   {
-    "revision": "47a4fd714b814385607d",
+    "revision": "1baf6e481d0a4c1e3a70",
     "url": "/desincha/static/css/2.04ef47c4.chunk.css"
   },
   {
-    "revision": "5aa261f4a0ea4a5d866c770c660cbf61",
+    "revision": "484fa1f957872ef2bad957bd62b55e15",
     "url": "/desincha/index.html"
   }
 ];
